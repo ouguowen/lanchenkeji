@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 图片比例选项 -->
+    <string-array name="image_ratios">
+        <item>1:1 正方形</item>
+        <item>4:3 横版</item>
+        <item>3:4 竖版</item>
+        <item>16:9 宽屏</item>
+        <item>9:16 手机</item>
+    </string-array>
+
+    <!-- 图片风格选项 -->
+    <string-array name="image_styles">
+        <item>写实风格</item>
+        <item>动漫风格</item>
+        <item>水彩画风格</item>
+        <item>油画风格</item>
+        <item>素描风格</item>
+        <item>复古风格</item>
+        <item>未来风格</item>
+        <item>赛博朋克</item>
+        <item>幻想风格</item>
+    </string-array>
+</resources> 

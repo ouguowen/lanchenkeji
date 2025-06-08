@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">AI创作助手</string>
+    <string name="app_slogan">让AI成为你的创作灵感</string>
+    <string name="app_logo">应用logo</string>
+    
+    <!-- 通用 -->
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="loading">加载中…</string>
+    <string name="success">成功</string>
+    <string name="error">错误</string>
+    <string name="empty_data">暂无数据</string>
+    <string name="back">返回</string>
+    <string name="generated_image">生成的图片</string>
+    <string name="login_first">请先登录</string>
+    
+    <!-- 登录注册 -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="nickname_hint">昵称</string>
+    <string name="confirm_password_hint">确认密码</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="terms_and_conditions">点击注册即表示您同意用户协议和隐私政策</string>
+    <string name="logout">退出登录</string>
+    <string name="login_success">登录成功</string>
+    <string name="register_success">注册成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="register_failed">注册失败</string>
+    <string name="password_not_match">两次输入的密码不一致</string>
+    <string name="username_exists">用户名已存在</string>
+    
+    <!-- 底部导航 -->
+    <string name="home">首页</string>
+    <string name="create">创作</string>
+    <string name="history">历史</string>
+    <string name="profile">我的</string>
+    
+    <!-- 创作功能 -->
+    <string name="text_to_image">文生图</string>
+    <string name="image_to_video">图生视频</string>
+    <string name="voice_clone">声音克隆</string>
+    <string name="copywriting">文案创作</string>
+    <string name="digital_human">数字人</string>
+    <string name="prompt_hint">请输入提示词…</string>
+    <string name="generate">生成</string>
+    <string name="template">模板</string>
+    <string name="download">下载</string>
+    <string name="share">分享</string>
+    <string name="credits_not_enough">积分不足</string>
+    <string name="task_submitted">任务已提交</string>
+    <string name="generation_failed">生成失败</string>
+    <string name="start_recording">开始录音</string>
+    <string name="stop_recording">停止录音</string>
+    
+    <!-- 个人中心 -->
+    <string name="account_info">账户信息</string>
+    <string name="credits">积分: %d</string>
+    <string name="recharge">充值</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="feedback">意见反馈</string>
+    <string name="help">帮助</string>
+    <string name="vip">开通会员</string>
+    <string name="vip_level">会员等级: %d</string>
+    
+    <!-- 创作历史 -->
+    <string name="history_empty">您还没有创作历史</string>
+    <string name="creation_date">创建时间: %s</string>
+    <string name="creation_status">状态: %s</string>
+    <string name="credits_cost">消耗积分: %d</string>
+
+    <!-- 历史记录 -->
+    <string name="no_creation_history">暂无创作历史</string>
+    <string name="filter_all">全部</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="delete_confirm">确认删除</string>
+    <string name="delete_confirm_message">确定要删除这条记录吗？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_failed">删除失败</string>
+
+    <!-- 模板管理 -->
+    <string name="template">模板</string>
+    <string name="choose_template">选择模板</string>
+    <string name="manage_template">管理模板</string>
+    <string name="create_template">创建模板</string>
+    <string name="edit_template">编辑模板</string>
+    <string name="template_name">模板名称</string>
+    <string name="template_description">模板描述</string>
+    <string name="template_prompt">提示词模板</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="use">使用</string>
+    <string name="no_templates">暂无模板</string>
+    <string name="add_template_success">添加模板成功</string>
+    <string name="update_template_success">更新模板成功</string>
+    <string name="delete_template_success">删除模板成功</string>
+    <string name="template_name_empty">模板名称不能为空</string>
+    <string name="template_prompt_empty">提示词模板不能为空</string>
+    
+    <!-- 通用 -->
+    <string name="close">关闭</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="back">返回</string>
+</resources> 
