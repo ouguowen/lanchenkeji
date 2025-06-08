@@ -18,6 +18,8 @@
     <string name="back">返回</string>
     <string name="generated_image">生成的图片</string>
     <string name="login_first">请先登录</string>
+    <string name="share_button_text">分享</string>
+    <string name="close">关闭</string>
     
     <!-- 登录注册 -->
     <string name="login">登录</string>
@@ -52,7 +54,6 @@
     <string name="generate">生成</string>
     <string name="template">模板</string>
     <string name="download">下载</string>
-    <string name="share">分享</string>
     <string name="credits_not_enough">积分不足</string>
     <string name="task_submitted">任务已提交</string>
     <string name="generation_failed">生成失败</string>
@@ -79,15 +80,12 @@
     <!-- 历史记录 -->
     <string name="no_creation_history">暂无创作历史</string>
     <string name="filter_all">全部</string>
-    <string name="share">分享</string>
-    <string name="delete">删除</string>
     <string name="delete_confirm">确认删除</string>
     <string name="delete_confirm_message">确定要删除这条记录吗？</string>
     <string name="delete_success">删除成功</string>
     <string name="delete_failed">删除失败</string>
 
     <!-- 模板管理 -->
-    <string name="template">模板</string>
     <string name="choose_template">选择模板</string>
     <string name="manage_template">管理模板</string>
     <string name="create_template">创建模板</string>
@@ -95,8 +93,6 @@
     <string name="template_name">模板名称</string>
     <string name="template_description">模板描述</string>
     <string name="template_prompt">提示词模板</string>
-    <string name="save">保存</string>
-    <string name="edit">编辑</string>
     <string name="use">使用</string>
     <string name="no_templates">暂无模板</string>
     <string name="add_template_success">添加模板成功</string>
@@ -104,10 +100,4 @@
     <string name="delete_template_success">删除模板成功</string>
     <string name="template_name_empty">模板名称不能为空</string>
     <string name="template_prompt_empty">提示词模板不能为空</string>
-    
-    <!-- 通用 -->
-    <string name="close">关闭</string>
-    <string name="confirm">确定</string>
-    <string name="cancel">取消</string>
-    <string name="back">返回</string>
 </resources> 

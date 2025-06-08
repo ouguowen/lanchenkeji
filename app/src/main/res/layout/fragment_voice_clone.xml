@@ -221,7 +221,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
                     android:backgroundTint="@color/secondary"
-                    android:text="@string/share"
+                    android:text="@string/share_button_text"
                     android:textColor="@color/white"
                     android:visibility="gone" />
             </LinearLayout>
